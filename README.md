@@ -1,2 +1,2 @@
 To run DividendCalculator:
-java -jar DividendCalculatorProject.jar <file name>
+java -jar DividendCalculatorProject.jar 'file name'
